@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-http",
-    "version": "0.240126",
+    "version": "0.240128",
     "host": "raw.githubusercontent.com",
     "port": 80,
     "bin": "/deviceIot/pwmg/main/firmware.bin"
